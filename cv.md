@@ -56,4 +56,4 @@ function createPhoneNumber(numbers){
 *************
 
 ## English level
-B1+ (Upper-Intermediate) - [EPAM English test result]https://examinator.epam.com/Main/PersonalAssignments
+B1+ (Upper-Intermediate) - [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments)
