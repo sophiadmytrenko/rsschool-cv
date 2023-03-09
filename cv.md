@@ -24,7 +24,7 @@ My goal is to become a high-level specialist who creates a quality produсt.
 * HTML5/CSS3
 * Javascript
 * Git, GitHub
-* React Basics
+* React Basics (continue to study)
 * Code Editors: Intellij IDEA, VS Code
 
 **************
