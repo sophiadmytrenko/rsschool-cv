@@ -50,7 +50,7 @@ function createPhoneNumber(numbers){
 ## Courses and Education
 
 *  Cherkasy State Technological University (third year)
-       - Web-technology and web-design
+       * Web-technology and web-design
 *  RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 *************
